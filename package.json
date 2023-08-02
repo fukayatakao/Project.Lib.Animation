@@ -1,0 +1,9 @@
+{
+    "name": "project.lib.animation",
+    "displayName": "Project.Lib.Animation",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "",
+    "dependencies": {
+    }
+}
